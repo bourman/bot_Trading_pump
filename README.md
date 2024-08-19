@@ -1,2 +1,2 @@
-# bot_Trading_pump
+# Bot_Trading_pump by cryptolju
 Bot for trading in meme coins in pump.fun
